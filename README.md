@@ -12,7 +12,7 @@
 - 🐍 Building skills in **Python** and **SQL** every day
 - 📊 Improving my data analysis skills one project at a time
 - 🚀 Learning in public via the **100 Days of Python** challenge
-- 🌍 Goal: to be the best!
+- 🌍 Goal: To become the best!!
 
 ---
 
@@ -20,11 +20,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -38,21 +36,9 @@
 
 ---
 
-## 📂 Project Highlights
+## 📂 100 Days of Python
 
-> Full list in my [100 Days of Python Repo](https://github.com/shaheerafridi/python-100-days-of-code)
-
-### 🔹 Loops & Logic
-- FizzBuzz, Highest Score Finder, Sum & Range challenges
-
-### 🔹 Randomization & Generators
-- Password Generator (Easy & Hard modes)
-- Random Name Generator
-- Study Schedule Generator
-
-### 🔹 Utilities & Tools
-- Tip & Discount Calculators
-- Mini Band Name Generator
+🐍 **5 / 100 days completed** — [View Progress](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
 
 ---
 
@@ -69,9 +55,9 @@
 
 <div align="center">
 
-![Shaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheerafridi&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![Shaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheer-afridi-ds&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&timezone=Asia/Karachi)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaheerafridi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaheer-afridi-ds&theme=tokyonight&hide_border=true&count_private=true&timezone=Asia/Karachi)
 
 </div>
 

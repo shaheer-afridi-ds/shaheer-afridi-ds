@@ -38,7 +38,6 @@
 
 ## 🎯 Goals
 - ✅ Build a strong Python foundation
-- 🔄 Learn data analysis with Pandas & SQL
 - 📁 Create a portfolio of real-world data projects
 - 🤖 Become a **Machine Learning Engineer**
 - 📊 Grow into a professional **Data Scientist**

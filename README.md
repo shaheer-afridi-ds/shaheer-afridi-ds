@@ -1,11 +1,15 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Shaheer+Afridi;Data+Science+Student;Learning+Python+%26+SQL;Building+Real-World+Projects)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I%27m+Shaheer+Afridi;Data+Science+Student;Learning+Python+%26+SQL;Building+Real-World+Projects" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 Data Science student focused on learning through hands-on projects
+- 🐍 Building skills in **Python** and **SQL** every day
+- 📊 Improving my data analysis skills one project at a time
+- 🚀 Learning in public via the **100 Days of Python** challenge
+- 🌍 Goal: To become the best!!
 
 ---
 
@@ -22,10 +26,10 @@
 ---
 
 ## 🌱 Currently Learning
-- 🐍 Building skills in **Python** and **SQL** every day
-- 📊 Improving my data analysis skills one project at a time
-- 🚀 Learning in public via the **100 Days of Python** challenge
-- 🌍 Goal: To become the best!!
+- Data analysis with **Pandas** & **NumPy**
+- Working with **APIs** and real-world datasets
+- SQL queries and database fundamentals
+
 ---
 
 ## 📂 100 Days of Python

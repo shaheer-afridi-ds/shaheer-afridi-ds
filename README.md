@@ -6,10 +6,10 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Data Science student focused on learning through hands-on projects
-- 🐍 Building skills in **Python** and **SQL** every day
-- 📊 Improving my data analysis skills one project at a time
-- 🚀 Learning in public via the **100 Days of Python** challenge
-- 🌍 Goal: To become the best!!
+- 💻 Learned **C** and **C++** from beginner to advanced level
+- 🔷 Solid understanding of **Object-Oriented Programming (OOP)
+- 🛠️ Using **Git** for version control and managing projects
+- 🖥️ Working daily in **VS Code** as my primary dev environment
 
 ---
 
@@ -19,16 +19,15 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
-- Data analysis with **Pandas** & **NumPy**
-- Working with **APIs** and real-world datasets
-- SQL queries and database fundamentals
+- 🐍 Building skills in **Python** and **SQL** every day
+- 📊 Improving my data analysis skills one project at a time
+- 🚀 Learning in public via the **100 Days of Python** challenge
 
 ---
 
@@ -43,7 +42,6 @@
 - 📁 Create a portfolio of real-world data projects
 - 🤖 Become a **Machine Learning Engineer**
 - 📊 Grow into a professional **Data Scientist**
-- 🌍 Study abroad and level up my career
 
 ---
 

@@ -32,7 +32,7 @@
 ---
 
 ## 📂 100 Days of Python
-🐍 **5 / 100 days completed** — [View Progress](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
+🐍 **6 / 100 days completed** — [View Progress](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
 
 ---
 

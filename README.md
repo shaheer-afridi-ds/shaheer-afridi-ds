@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1500&pause=600&color=00AAFF&background=000D1A&center=true&vCenter=true&width=600&height=45&lines=%3E+Initializing+profile...;NAME+%3A+Shaheer+Afridi;ROLE+%3A+Data+Science+Student;STACK+%3A+Python+·+SQL+·+C+·+C%2B%2B+·+Git;GOAL+%3A+ML+Engineer+%26+Data+Scientist;%3E+100+Days+of+Python+——+06+%2F+100;%3E+I+don't+quit.+I+figure+it+out.)](https://github.com/shaheer-afridi-ds)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1500&pause=600&color=00AAFF&center=true&vCenter=true&width=600&height=45&lines=%3E+Initializing+profile...;NAME+%3A+Shaheer+Afridi;ROLE+%3A+Data+Science+Student;STACK+%3A+Python+·+SQL+·+C+·+C%2B%2B+·+Git;GOAL+%3A+ML+Engineer+%26+Data+Scientist;%3E+100+Days+of+Python+——+06+%2F+100;%3E+I+don't+quit.+I+figure+it+out.)](https://github.com/shaheer-afridi-ds)
 
 </div>
 

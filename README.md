@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Data Science student focused on learning through hands-on projects
 - 💻 Learned **C** and **C++** from beginner to advanced level
-- 🔷 Solid understanding of **Object-Oriented Programming (OOP)
+- 🔷 Solid understanding of **Object-Oriented Programming (OOP)**
 - 🛠️ Using **Git** for version control and managing projects
 - 🖥️ Working daily in **VS Code** as my primary dev environment
 
@@ -34,7 +34,15 @@
 ---
 
 ## 📂 100 Days of Python
-🐍 **6 / 100 days completed** — [View Progress](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
+
+🐍 **6 / 100 days completed**
+
+![Progress](https://img.shields.io/badge/Days%20Completed-06%2F100-blue)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+
+> Documenting every day publicly — projects, exercises, and mini apps.
+
+[View Progress →](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
 
 ---
 

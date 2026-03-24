@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=root%40github%3A~%24+whoami;Shaheer+Afridi+%5B+Data+Science+%5D;Learning+Python+%26+SQL+%5B+Day+6%2F100+%5D;Building+Real-World+Projects+%5B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D;I+don%27t+quit.+I+figure+it+out.+%F0%9F%92%AA)](https://github.com/shaheer-afridi-ds)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=%3E+Initializing...;Shaheer+Afridi+%5B+Data+Science+%5D;Learning+Python+%26+SQL+%5B+Day+6%2F100+%5D;Building+Real-World+Projects;I+don%27t+quit.+I+figure+it+out.+%F0%9F%92%AA)](https://github.com/shaheer-afridi-ds)
 
 </div>
 

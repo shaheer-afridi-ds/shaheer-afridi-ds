@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm building my foundation in **Data Science, Artificial Intelligence, and Machine Learning** through programming practice, and hands-on projects.
+I'm building my foundation in **Data Science, Artificial Intelligence, and Machine Learning** through coursework, programming practice, and hands-on projects.
 
 - 🐍 Working primarily with **Python**
 - 🗃️ Practicing **SQL** and database concepts
@@ -72,12 +72,6 @@ A structured Python learning journey where I document exercises, programming cha
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer-afridi-ds&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheer-afridi-ds&theme=tokyonight" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheer-afridi-ds&theme=tokyonight" />
-
 </div>
 
 ---
@@ -86,7 +80,7 @@ A structured Python learning journey where I document exercises, programming cha
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaheer-afridi-ds&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheer-afridi-ds&theme=tokyonight" />
 
 </div>
 

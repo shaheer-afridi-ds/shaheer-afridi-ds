@@ -1,12 +1,20 @@
+<!-- ========================= -->
+<!--        PROFILE HEADER     -->
+<!-- ========================= -->
+
 <div align="center">
 
-# Shaheer Afridi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3B60,100:00AEEF&height=180&section=header&text=Shaheer%20Afridi&fontSize=46&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20Machine%20Learning&descSize=17&descAlignY=56"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=900&color=00AEEF&center=true&vCenter=true&width=750&lines=Data+Science+%7C+Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+SQL+%7C+Data+Analysis;Learning.+Building.+Improving.;Turning+Data+Into+Real+Impact.)](https://github.com/shaheer-afridi-ds)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Data+Analysis;Artificial+Intelligence+%E2%80%A2+Machine+Learning;Learning+%E2%86%92+Building+%E2%86%92+Improving+%E2%86%92+Repeating;Turning+Data+Into+Real+Impact.)](https://github.com/shaheer-afridi-ds)
 
-### `Data Science • AI/ML • Python • SQL • Problem Solving`
+<br>
 
-> Building strong foundations today to create intelligent systems tomorrow.
+`DATA` &nbsp;•&nbsp; `CODE` &nbsp;•&nbsp; `AI` &nbsp;•&nbsp; `PROBLEM SOLVING`
+
+<br>
+
+> **Building strong foundations today to create intelligent systems tomorrow.**
 
 </div>
 
@@ -14,15 +22,16 @@
 
 ## 👨‍💻 About Me
 
-I'm focused on building strong foundations in **Data Science, Artificial Intelligence, and Machine Learning** through consistent learning and hands-on projects.
+I'm focused on building strong foundations in **Data Science, Artificial Intelligence, and Machine Learning** through consistent learning, experimentation, and hands-on projects.
 
 - 🐍 Building real-world skills with **Python**
 - 🗃️ Working with **SQL** and database concepts
-- 📊 Exploring **Data Analysis & Visualization**
+- 📊 Developing skills in **Data Analysis & Visualization**
 - 🤖 Progressing toward **Machine Learning & AI**
 - 💻 Background in **C, C++ and Object-Oriented Programming**
-- 🔧 Using **Git & GitHub** to manage and document my work
-- 🚀 Learning by **building, experimenting, and solving problems**
+- 🔧 Using **Git & GitHub** for version control and project management
+- 🧠 Learning concepts deeply instead of simply memorizing syntax
+- 🚀 Turning what I learn into projects, experiments, and practical solutions
 
 ---
 
@@ -32,22 +41,23 @@ I'm focused on building strong foundations in **Data Science, Artificial Intelli
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=659AD2)
 
 ### Data & Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=00AEEF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-### Tools
+### Development Tools
 
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=23A8F2)
 
 </div>
 
@@ -66,13 +76,19 @@ shaheer = {
 
     "building": [
         "Python Projects",
-        "Data Projects",
+        "Data Analysis Projects",
         "Problem Solving Skills"
+    ],
+
+    "exploring": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
     ],
 
     "goal": "Machine Learning Engineer / Data Scientist",
 
-    "mindset": "Learn → Build → Improve → Repeat"
+    "philosophy": "Understand → Build → Break → Debug → Improve"
 }
 ```
 
@@ -82,54 +98,67 @@ shaheer = {
 
 <div align="center">
 
-### `Day 06 / 100`
+### `DAY 06 / 100`
 
-![Progress](https://img.shields.io/badge/Progress-06%25-00AEEF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Progress-22C55E?style=for-the-badge)
+![Progress](https://img.shields.io/badge/PROGRESS-06%25-0EA5E9?style=for-the-badge&labelColor=0D1117)
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-22C55E?style=for-the-badge&labelColor=0D1117)
+
+<br>
+
+I'm documenting my Python journey through exercises, challenges, mini-projects, and practical applications.
+
+<br>
+
+### [🚀 Explore My 100 Days of Python Journey](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
 
 </div>
 
-I'm documenting my Python journey through exercises, mini-projects, and practical challenges.
+---
+
+## 🗺️ My Roadmap
 
 <div align="center">
 
-### [→ Explore My 100 Days of Python Journey](https://github.com/shaheer-afridi-ds/python-100-days-of-code)
+```text
+Python Fundamentals
+        │
+        ▼
+Data Analysis
+        │
+        ▼
+SQL + Databases
+        │
+        ▼
+Statistics + Mathematics
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+AI / ML Engineering
+        │
+        ▼
+Real-World Intelligent Systems
+```
 
 </div>
 
 ---
 
-## 🎯 Roadmap
+## 🎯 Goals
 
-```text
-Python Fundamentals
-        ↓
-Data Analysis
-        ↓
-SQL + Databases
-        ↓
-Statistics & Mathematics
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-AI / ML Engineering
-        ↓
-Real-World Intelligent Systems
-```
-
----
-
-## 📌 Goals
-
-- Build a strong **Python foundation**
-- Develop professional **Data Analysis skills**
-- Create meaningful **real-world projects**
-- Strengthen **Statistics & Machine Learning**
-- Learn modern **AI/ML engineering tools**
-- Build a strong technical portfolio
-- Become a highly capable **Machine Learning Engineer / Data Scientist**
+- 🐍 Build a strong **Python foundation**
+- 📊 Develop professional **Data Analysis skills**
+- 🗃️ Strengthen **SQL & Database fundamentals**
+- 📈 Improve **Statistics & Mathematics**
+- 🤖 Build a strong foundation in **Machine Learning**
+- 🧠 Progress toward **Artificial Intelligence & Deep Learning**
+- 🛠️ Build meaningful **real-world projects**
+- 📂 Create a strong technical portfolio
+- 🚀 Grow into a capable **Machine Learning Engineer / Data Scientist**
 
 ---
 
@@ -137,15 +166,13 @@ Real-World Intelligent Systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaheer-afridi-ds&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaheer-afridi-ds&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer-afridi-ds&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer-afridi-ds&theme=tokyonight&hide_border=true&background=0D1117" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer-afridi-ds&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer-afridi-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -153,30 +180,43 @@ Real-World Intelligent Systems
 
 ## 🧠 How I Approach Learning
 
-```text
-Understand the concept
-        ↓
-Build something with it
-        ↓
-Break it
-        ↓
-Debug it
-        ↓
-Understand it better
-        ↓
-Repeat
-```
-
----
-
 <div align="center">
 
-### `Learning. Building. Improving.`
-
-> **"I don't quit. I figure it out."**
+### `UNDERSTAND → BUILD → BREAK → DEBUG → IMPROVE → REPEAT`
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaheer-afridi-ds&style=flat-square&color=00AEEF)
+I learn best by turning concepts into something practical, experimenting with them, finding what breaks, and understanding **why**.
+
+<br>
+
+`Theory` → `Practice` → `Projects` → `Experience`
+
+</div>
+
+---
+
+## 💡 Current Mindset
+
+<div align="center">
+
+```text
+Stay Curious.
+Build Consistently.
+Solve Real Problems.
+Improve Every Day.
+```
+
+### `Learning • Building • Improving`
+
+> **"I don't quit. I figure it out."**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,50:0B3B60,100:0D1117&height=110&section=footer"/>
 
 </div>
